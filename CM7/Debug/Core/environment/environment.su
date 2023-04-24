@@ -1,0 +1,3 @@
+../Core/environment/environment.c:21:6:initEnvironment	24	static
+../Core/environment/environment.c:54:5:isEnvironmentInitialized	32	static
+../Core/environment/environment.c:88:5:isPointInsideEnvironment	16	static

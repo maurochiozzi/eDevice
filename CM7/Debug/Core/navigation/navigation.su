@@ -1,0 +1,6 @@
+../Core/navigation/navigation.c:24:6:estimateMagneticSensorPosition	40	static
+../Core/navigation/navigation.c:60:6:estimateMagneticBeaconSourcePosition	40	static
+../Core/navigation/navigation.c:97:6:buildSegmentsMatrix	64	static
+../Core/navigation/navigation.c:137:6:estimateMagneticSensorsPositions	64	static
+../Core/navigation/navigation.c:175:6:estimateBeaconsPositions	64	static
+../Core/navigation/navigation.c:216:6:calculatePositionByTrilateration	48	static

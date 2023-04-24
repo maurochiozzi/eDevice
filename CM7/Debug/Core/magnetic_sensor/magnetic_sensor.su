@@ -1,0 +1,8 @@
+../Core/magnetic_sensor/magnetic_sensor.c:25:6:initMagneticSensor	24	static
+../Core/magnetic_sensor/magnetic_sensor.c:58:5:isMagneticSensorInitialized	24	static
+../Core/magnetic_sensor/magnetic_sensor.c:95:8:sampleMagneticSignal	48	static
+../Core/magnetic_sensor/magnetic_sensor.c:109:5:addSampleMagneticSignal	24	static
+../Core/magnetic_sensor/magnetic_sensor.c:125:7:getMagneticSignalStrength	16	static
+../Core/magnetic_sensor/magnetic_sensor.c:136:7:calculateDistanceFromBeacon	24	static
+../Core/magnetic_sensor/magnetic_sensor.c:157:6:updateSpectrum	48	static
+../Core/magnetic_sensor/magnetic_sensor.c:182:6:resetSampleCache	24	static

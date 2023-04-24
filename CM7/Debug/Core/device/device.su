@@ -1,0 +1,7 @@
+../Core/device/device.c:27:6:initDevice	24	static
+../Core/device/device.c:61:6:setBaseline	16	static
+../Core/device/device.c:74:5:isDeviceInitialized	32	static
+../Core/device/device.c:108:6:updateDevicePosition	32	static
+../Core/device/device.c:135:6:updateDeviceAttitude	40	static
+../Core/device/device.c:152:6:updateDeviceHeading	40	static
+../Core/device/device.c:172:6:destroyDevice	16	static

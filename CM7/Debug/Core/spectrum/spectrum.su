@@ -1,0 +1,5 @@
+../Core/spectrum/spectrum.c:30:6:initSpectrum	32	static
+../Core/spectrum/spectrum.c:61:6:initSpectrumAngles	24	static
+../Core/spectrum/spectrum.c:90:5:isSpectrumInitialized	24	static
+../Core/spectrum/spectrum.c:121:7:getSpectrumWindowIntensity	32	static
+../Core/spectrum/spectrum.c:146:6:clearPastSpectrum	24	static

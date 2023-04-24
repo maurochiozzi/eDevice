@@ -1,0 +1,5 @@
+../Core/mock/mock.c:26:7:mockMagneticSourceIntensityFromSource	40	static
+../Core/mock/mock.c:32:7:mockMagneticSourceIntensityFromSourceWithErrors	40	static
+../Core/mock/mock.c:68:7:mockEnvironmentMagneticField	48	static
+../Core/mock/mock.c:90:6:mockBeaconSurveyRun	56	static
+../Core/mock/mock.c:118:6:mockMagneticFieldSampleRun	88	static

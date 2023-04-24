@@ -1,0 +1,4 @@
+../Core/magnetic_field/magnetic_field.c:26:6:initMagneticFieldSource	24	static
+../Core/magnetic_field/magnetic_field.c:56:5:isMagneticFieldSourceInitialized	24	static
+../Core/magnetic_field/magnetic_field.c:79:7:getMagneticIntensityFromSource	24	static
+../Core/magnetic_field/magnetic_field.c:95:7:getMagneticSourceDistanceByIntensity	24	static

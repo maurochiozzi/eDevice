@@ -1,0 +1,4 @@
+../Core/indexer/indexer.c:24:6:initIndexer	24	static
+../Core/indexer/indexer.c:47:5:isIndexerInitialized	24	static
+../Core/indexer/indexer.c:76:5:incrementIndex	32	static
+../Core/indexer/indexer.c:100:6:mutexSampleCache	16	static

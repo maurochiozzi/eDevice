@@ -1,0 +1,2 @@
+../Core/beacon/beacon.c:27:6:initBeacon	32	static
+../Core/beacon/beacon.c:70:5:isBeaconInitialized	24	static

@@ -1,0 +1,2 @@
+../Core/station/station.c:17:5:requestStationNumberOfBeacons	4	static
+../Core/station/station.c:27:6:requestBeaconsInformation	72	static

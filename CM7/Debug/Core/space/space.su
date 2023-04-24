@@ -1,0 +1,10 @@
+../Core/space/space.c:25:6:setCoordinate	24	static
+../Core/space/space.c:39:6:setVector	24	static
+../Core/space/space.c:51:7:norm	24	static
+../Core/space/space.c:62:7:euclideanDistance2	32	static
+../Core/space/space.c:77:6:translate	24	static
+../Core/space/space.c:83:6:rotate2d	40	static
+../Core/space/space.c:104:7:calculatePositionError	32	static
+../Core/space/space.c:114:7:calculateError	16	static
+../Core/space/space.c:123:6:printCoordinate	32	static
+../Core/space/space.c:138:6:printVector	32	static
